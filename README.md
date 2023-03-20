@@ -2,7 +2,7 @@
 
 ![Home Page Of Application](images/home_page.jpg "Home Page Of The Web Application")
 <img
-  src="Home_page.jpg"
+  src="Home-page.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
