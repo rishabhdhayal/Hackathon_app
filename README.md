@@ -1,6 +1,6 @@
 # Hackathon_app
 
-![Home Page Of Application](Home-page.jpg "Optional title")
+![Home Page Of Application](images/home-page.svg"Home Page Of The Web Application")
 
 ### For new beginner and intermediate coders it always been a tough task to build a project by alone
 
