@@ -5,7 +5,7 @@
   src="Home-page.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 ### For new beginner and intermediate coders it always been a tough task to build a project alone
 
