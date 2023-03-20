@@ -1,11 +1,6 @@
 # Hackathon_app
 
-![Home Page Of Application](images/home_page.jpg "Home Page Of The Web Application")
-<img
-  src="Home-page.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+![Home Page Of Application](Home-page.jpg "Home Page Of The Web Application")
 
 ### For new beginner and intermediate coders it always been a tough task to build a project alone
 
@@ -25,3 +20,8 @@ So to solve this problem i build a community website where students as well as e
 - Get experience in managing group
 - Get insentives on mentoring groups
 - learn new tech with new people
+
+
+## Path of the project building journey with us 
+
+![Path Page Of Application](images/path page.jpg "Path Page Of The Web Application")
