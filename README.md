@@ -1,4 +1,4 @@
-# Project Building APP
+# Project Building web app
 
 ![Home Page Of Application](Home-page.jpg "Home Page Of The Web Application")
 
