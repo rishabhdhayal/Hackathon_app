@@ -1,8 +1,10 @@
 # Hackathon_app
 
 ![Home Page Of Application](images/home_page.jpg "Home Page Of The Web Application")
+![Home Page Of Application](images/home-page.svg "Home Page Of The Web Application")
+![Home Page Of Application](images/path.jpg "Home Page Of The Web Application")
 
-### For new beginner and intermediate coders it always been a tough task to build a project by alone
+### For new beginner and intermediate coders it always been a tough task to build a project alone
 
 #### They learn from various bootcamps, courses and online materials but they find it difficult to make/build projects by their own.
 
