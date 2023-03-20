@@ -24,7 +24,7 @@ So to solve this problem i build a community website where students as well as e
 
 ## Path of the project building journey with us 
 
-![Path Page Of Application](path ss.jpg "Path Page Of The Web Application")
+![Path Page Of Application](path-ss.jpg "Path Page Of The Web Application")
 
 - First apply.
 - Then provide your previous work to Validate your expertise through.
